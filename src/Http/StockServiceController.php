@@ -8,6 +8,6 @@ class StockServiceController extends Controller
 {
     public function get()
     {
-        return 'I am the stock controller, I give you things!';
+        return 'I am the stock controller, I give you things!  All the things';
     }
 }

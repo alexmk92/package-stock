@@ -1,0 +1,18 @@
+{
+    "name": "alexmk92/stock",
+    "description": "Package that allows the querying of stock",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Sims",
+            "email": "alex.sims@jamesandjames.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlexMK92\\StockService\\": "src/"
+        }
+    }
+}

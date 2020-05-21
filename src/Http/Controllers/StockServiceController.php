@@ -1,6 +1,6 @@
 <?php
 
-namespace AlexMK92\StockService\Http;
+namespace AlexMK92\StockService\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 

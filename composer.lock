@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/alexmk92/package-core.git",
-                "reference": "267f2105c70076a0eeb61549ef703c3f3fec2b22"
+                "reference": "69ea91dc3851c0fd7c77da36eeb82a7c75fadfd7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alexmk92/package-core/zipball/267f2105c70076a0eeb61549ef703c3f3fec2b22",
-                "reference": "267f2105c70076a0eeb61549ef703c3f3fec2b22",
+                "url": "https://api.github.com/repos/alexmk92/package-core/zipball/69ea91dc3851c0fd7c77da36eeb82a7c75fadfd7",
+                "reference": "69ea91dc3851c0fd7c77da36eeb82a7c75fadfd7",
                 "shasum": ""
             },
             "type": "library",
@@ -37,7 +37,7 @@
                 }
             ],
             "description": "Shared functionality for all applications to consume",
-            "time": "2020-05-21T07:21:01+00:00"
+            "time": "2020-05-21T07:31:36+00:00"
         }
     ],
     "packages-dev": [],

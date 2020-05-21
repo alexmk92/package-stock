@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::group(['prefix' => 'api'], function ($router) {
+Route::group(['namespace' => 'AlexMK92\\StockService\\Http\\Controllers', 'prefix' => 'api'], function ($router) {
     $router->get('/stock', 'StockServiceController@get');
 });

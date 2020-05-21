@@ -9,10 +9,13 @@
             "email": "alex.sims@jamesandjames.com"
         }
     ],
-    "require": {},
+    "require": {
+        "alexmk92/core": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "AlexMK92\\StockService\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
